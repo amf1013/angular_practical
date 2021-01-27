@@ -1,0 +1,52 @@
+[
+    {
+        "productId": 1,
+        "productName": "Old Rusty Car",
+        "productCode": "RAM-0001",
+        "dateUploaded": "March 18, 2019",
+        "description": "A very old and rusty car with four wheels.",
+        "price": 500,
+        "starRating": 2.1,
+        "imageUrl": "assets/images/car.png"
+    },
+    {
+        "productId": 2,
+        "productName": "Vintage Toaster",
+        "productCode": "HHA-0001",
+        "dateUploaded": "May 21, 2019",
+        "description": "A cool looking old school toaster.",
+        "price": 15.95,
+        "starRating": 4.7,
+        "imageUrl": "assets/images/toaster.png"
+    },
+    {
+        "productId": 3,
+        "productName": "Red Bicylce",
+        "productCode": "RAM-0002",
+        "dateUploaded": "January 22, 2019",
+        "description": "A cool looking old school toaster.",
+        "price": 22.30,
+        "starRating": 3.8,
+        "imageUrl": "assets/images/bicycle.png"
+    },
+    {
+        "productId": 4,
+        "productName": "Tractor",
+        "productCode": "RAM-0003",
+        "dateUploaded": "June 16, 2019",
+        "description": "Just a tractor.",
+        "price": 700,
+        "starRating": 4.1,
+        "imageUrl": "assets/images/tractor.png"
+    },
+    {
+        "productId": 5,
+        "productName": "Electric Wisk",
+        "productCode": "HHA-0002",
+        "dateUploaded": "August 27, 2019",
+        "description": "A wisk with a battery.",
+        "price": 10.20,
+        "starRating": 4.5,
+        "imageUrl": "assets/images/wisk.png"
+    }
+]
